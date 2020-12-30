@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 47)
+    (drawings 49)
     (tracks 217)
     (zones 0)
     (modules 34)
@@ -2515,6 +2515,12 @@
       (net 31 can_tx))
   )
 
+  (gr_text . (at 116.1034 113.0808) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text https://github.com/COLVERTYETY/stm32canProto (at 130.937 126.8476) (layer B.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "active low" (at 105.8926 118.3132 -90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
