@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name stm32f0can-cache)(type Legacy)(uri ${KIPRJMOD}/SOIC127P600X175-8N/stm32f0can-cache.lib)(options "")(descr ""))
+)
