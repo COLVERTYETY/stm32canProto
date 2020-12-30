@@ -2480,7 +2480,7 @@
     (at 142.155 113.665)
     (path /5FED4306)
     (fp_text reference U2 (at -0.675 -3.337) (layer F.SilkS)
-      (effects (font (size 1 1) (thickness 0.015)))
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value IFX1050GVIO (at 7.58 3.337) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.015)))
